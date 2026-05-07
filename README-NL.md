@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/Martijn-van-Kekem-Development/MatchGear/issues">Bekijk de openstaande functieverzoeken hier.</a><br>
+  <a target="_blank" href="https://github.com/Martijn-van-Kekem-Development/MatchGear-Tracker/issues">Bekijk de openstaande functieverzoeken hier.</a><br>
 </p>
 
 MatchGear is de ultieme uitbereiding rond jouw pols en helpt scheidsrechters van over de hele wereld om zich te focussen op dat wat er toe doet: de wedstrijd.
