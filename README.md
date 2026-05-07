@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/Martijn-van-Kekem-Development/MatchGear/issues">View all open feature requests & bugs here.</a><br>
+  <a target="_blank" href="https://github.com/Martijn-van-Kekem-Development/MatchGear-Tracker/issues">View all open feature requests & bugs here.</a><br>
 </p>
 
 
