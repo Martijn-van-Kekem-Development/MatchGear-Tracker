@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.matchgear.app/">
-    <img alt="MatchGear" src="https://www.matchgear.app/assets/icon/android-icon-192x192.png?v=1.1.0" width="150"/>
+    <img alt="MatchGear" src="https://static.matchgear.app/uploads/2026/05/logo_circle.png" width="150"/>
   </a>
 </p>
 <h1 align="center">MatchGear</h1>
