@@ -1,7 +1,7 @@
 name: Bug Report
 description: I've noticed something off in one of the products of MatchGear.
 title: "[BUG]: "
-labels: ["bug"]
+type: Bug
 assignees:
   - martijnvankekem
 body:

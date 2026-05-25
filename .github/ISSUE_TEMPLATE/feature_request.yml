@@ -1,7 +1,7 @@
 name: Feature request
 description: I want to request a new feature, or propose a change to an existing feature.
 title: "[FEATURE REQUEST]: "
-labels: ["enhancement"]
+type: Feature
 assignees:
   - martijnvankekem
 body:
